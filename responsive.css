@@ -1,0 +1,206 @@
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 576px) {
+    .my_container {
+        width: 100% !important;
+        margin: auto;
+    }
+    #intro h1 {
+        font-size: 33px !important;
+        margin-top: 158px;
+        margin-left: 57px !important;
+        font-weight: 900;
+        width: 18% !important;
+    }
+    #intro h2 {
+        color: #E76543;
+        font-weight: 600;
+        margin-left: 57px !important;
+        margin-top: 26px !important;
+        font-family: poppin_semi_bold;
+        margin-bottom: 20px !important;
+    }
+    #intro p {
+        margin-left: 57px !important;
+        margin-top: 26px !important;
+        margin-bottom: 20px !important;
+    }
+    #intro a {
+        margin-left: 57px !important;
+        margin-top: 26px !important;
+        margin-bottom: 20px !important;
+    }
+    .header_bottom_contents_texts{
+        visibility: visible;
+    }
+    .for_mobile{
+        visibility: visible;
+    }
+    .header_bottom_contents_texts {
+        position: relative;
+        top:  0% !important;
+        width: 80% !important;
+        margin: auto;
+        padding-bottom: 10px !important;
+        color: #e76543;
+    }
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 576px) {
+    .my_container {
+        width: 100% !important;
+        margin: auto;
+    }
+    #intro h1 {
+        font-size: 33px !important;
+        margin-top: 158px;
+        margin-left: 57px !important;
+        font-weight: 900;
+        width: 18% !important;
+    }
+    #intro h2 {
+        color: #E76543;
+        font-weight: 600;
+        margin-left: 57px !important;
+        margin-top: 26px !important;
+        font-family: poppin_semi_bold;
+        margin-bottom: 20px !important;
+    }
+    #intro p {
+        margin-left: 57px !important;
+        margin-top: 26px !important;
+        margin-bottom: 20px !important;
+    }
+    #intro a {
+        margin-left: 57px !important;
+        margin-top: 26px !important;
+        margin-bottom: 20px !important;
+    }
+    .header_bottom_contents_texts {
+        position: relative;
+        top:  0% !important;
+        width: 80% !important;
+        margin: auto;
+        padding-bottom: 10px !important;
+        color: #e76543;
+    }
+}
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+    .my_container {
+        width: 100% !important;
+        margin: auto;
+    }
+    #intro h1 {
+        font-size: 50px !important;
+        margin-top: 158px !important;
+        margin-left: 162px !important;
+        font-weight: 900;
+        width: 39% !important;
+    }
+    #intro p {
+        margin-left: 162px !important;
+    }
+    #intro h2 {
+        margin-left: 162px !important;
+    }
+    #intro a {
+        margin-left: 162px !important;
+    }
+    .header_bottom_contents_texts {
+        position: relative;
+        top: 75% !important;
+        width: 40% !important;
+        margin: auto;
+        margin-top: 79px !important;
+        padding-bottom: 100px !important;
+    }
+    .header_bottom_contents_texts h1{
+        font-size: 40px !important;
+
+    }
+    .header_bottom_contents_texts p{
+        font-size: 14px !important;
+
+    }
+}
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) {
+    .my_container {
+        width: 1190px !important;
+        margin: auto;
+    }
+    #intro h1 {
+        font-size: 85px !important;
+        margin-top: 158px !important;
+        margin-left: 162px !important;
+        font-weight: 900;
+        width: 45% !important;
+    }
+    #intro p {
+        margin-left: 162px !important;
+    }
+    #intro h2 {
+        margin-left: 162px !important;
+    }
+    #intro a {
+        margin-left: 162px !important;
+    }
+    .header_bottom_contents_texts {
+        position: relative;
+        top: 77% !important;
+        width: 35% !important;
+        margin: auto !important;
+        margin-top: 79px !important;
+        padding-bottom: 100px !important;
+    }
+    .header_bottom_contents_texts h1 {
+        font-size: 50px !important;
+        font-family: poppin_bold;
+        margin-bottom: 40px !important;
+        line-height: 60px;
+        letter-spacing: 1px;
+        font-weight: 700;
+        margin-top: -122px;
+    }
+
+    .header_bottom_contents_texts p {
+        line-height: 29.2px !important;
+        font-size: 18px !important;
+        font-family: poppins_extra_light;
+        word-spacing: .48px;
+        font-weight: 400;
+        width: 489px;
+        margin-left: 95px;
+        text-decoration: j;
+        text-align: justify;
+        color: #F1D0E2;
+    }
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .my_container {
+        width: 90% !important;
+        margin: auto;
+    }
+    #intro h1 {
+        font-size: 85px !important;
+        margin-top: 158px;
+        margin-left: 162px;
+        font-weight: 900;
+        width: 39% !important;
+    }
+    #intro p {
+        margin-left: 162px !important;
+    }
+    #intro h2 {
+        margin-left: 162px !important;
+    }
+    #intro a {
+        margin-left: 162px !important;
+    }
+}
+@media only screen and (min-width: 1200px) {}
